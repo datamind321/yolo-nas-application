@@ -1,5 +1,5 @@
 super_gradients
-opencv-python-headless
+opencv-python
 pillow
 streamlit
 filterpy
