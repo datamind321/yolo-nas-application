@@ -1,7 +1,0 @@
-super_gradients
-opencv-python
-pillow
-streamlit
-filterpy
-scikit-image
-
