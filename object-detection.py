@@ -13,7 +13,7 @@ model=models.get('yolo_nas_s',pretrained_weights='coco').to(device)
 
 # ---------------------------- Image Detection ----------------------------------------------
 
-out=model.predict('images/pexels-nic-law-792831.jpg').show()
+out=model.predict('images/pexels-nic-law-792831.jpg')
 
 
 # --------------------------- Video Detection ----------------------------
