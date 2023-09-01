@@ -44,6 +44,7 @@ jsonschema==4.19.0
 jsonschema-specifications==2023.7.1
 kiwisolver==1.4.5
 lazy_loader==0.3
+libgl1-mesa-glx
 Markdown==3.4.4
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
